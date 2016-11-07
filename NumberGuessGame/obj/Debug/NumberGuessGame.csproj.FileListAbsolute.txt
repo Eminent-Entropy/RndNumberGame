@@ -1,0 +1,10 @@
+c:\users\gerbster\documents\visual studio 2015\Projects\NumberGuessGame\NumberGuessGame\bin\Debug\NumberGuessGame.exe.config
+c:\users\gerbster\documents\visual studio 2015\Projects\NumberGuessGame\NumberGuessGame\bin\Debug\NumberGuessGame.exe
+c:\users\gerbster\documents\visual studio 2015\Projects\NumberGuessGame\NumberGuessGame\bin\Debug\NumberGuessGame.pdb
+c:\users\gerbster\documents\visual studio 2015\Projects\NumberGuessGame\NumberGuessGame\obj\Debug\NumberGuessGame.csprojResolveAssemblyReference.cache
+c:\users\gerbster\documents\visual studio 2015\Projects\NumberGuessGame\NumberGuessGame\obj\Debug\NumberGuessGame.exe
+c:\users\gerbster\documents\visual studio 2015\Projects\NumberGuessGame\NumberGuessGame\obj\Debug\NumberGuessGame.pdb
+c:\users\gerbster\documents\visual studio 2015\Projects\NumberGuessGame\NumberGuessGame\bin\Debug\NumberGuessGame.exe.manifest
+c:\users\gerbster\documents\visual studio 2015\Projects\NumberGuessGame\NumberGuessGame\bin\Debug\NumberGuessGame.application
+c:\users\gerbster\documents\visual studio 2015\Projects\NumberGuessGame\NumberGuessGame\obj\Debug\NumberGuessGame.exe.manifest
+c:\users\gerbster\documents\visual studio 2015\Projects\NumberGuessGame\NumberGuessGame\obj\Debug\NumberGuessGame.application
